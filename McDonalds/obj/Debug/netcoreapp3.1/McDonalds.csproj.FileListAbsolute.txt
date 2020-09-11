@@ -1,0 +1,11 @@
+C:\Users\s208070\source\repos\McDonalds\bin\Debug\netcoreapp3.1\McDonalds.exe
+C:\Users\s208070\source\repos\McDonalds\bin\Debug\netcoreapp3.1\McDonalds.deps.json
+C:\Users\s208070\source\repos\McDonalds\bin\Debug\netcoreapp3.1\McDonalds.runtimeconfig.json
+C:\Users\s208070\source\repos\McDonalds\bin\Debug\netcoreapp3.1\McDonalds.runtimeconfig.dev.json
+C:\Users\s208070\source\repos\McDonalds\bin\Debug\netcoreapp3.1\McDonalds.dll
+C:\Users\s208070\source\repos\McDonalds\bin\Debug\netcoreapp3.1\McDonalds.pdb
+C:\Users\s208070\source\repos\McDonalds\obj\Debug\netcoreapp3.1\McDonalds.csprojAssemblyReference.cache
+C:\Users\s208070\source\repos\McDonalds\obj\Debug\netcoreapp3.1\McDonalds.AssemblyInfoInputs.cache
+C:\Users\s208070\source\repos\McDonalds\obj\Debug\netcoreapp3.1\McDonalds.AssemblyInfo.cs
+C:\Users\s208070\source\repos\McDonalds\obj\Debug\netcoreapp3.1\McDonalds.dll
+C:\Users\s208070\source\repos\McDonalds\obj\Debug\netcoreapp3.1\McDonalds.pdb
